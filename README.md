@@ -3,5 +3,5 @@ This script will alert you when certain skills or items are used such as Smoke o
 Deciet or Mirana's ultimate.
 
 # Installation
-Simply add `hake-me/AbilityAlert` to its own line in `repos.txt` then tell the 
+Simply add `hake-me/Ability-Alert` to its own line in `repos.txt` then tell the 
 client to update your scripts.
